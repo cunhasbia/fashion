@@ -1,2 +1,2 @@
-# HTML-CSS-2ndProjectAtUdemy
-Simple project just to practice some new properties learned during the course at Udemy.
+# Fashion
+2nd project to practice some new properties learned about HTML5 and CSS3 during the course at Udemy.
